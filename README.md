@@ -35,7 +35,7 @@ For Studying MarkDown!
 Grave(백콤) 기호를 사용 `Grave`   
 
 `한 줄의 소스`를 삽입할 때는 ` 를 앞뒤에 붙이고, 
-```
+```rl
 여러줄을 
 삽입할 때
 ```    
@@ -56,3 +56,27 @@ Grave(백콤) 기호를 사용 `Grave`
 마지막 줄에서    
 **3번** 띄어쓰기를 하면 줄이 바뀐다.
 
+---
+# Design on readme
+
+## bedge
+<https://shields.io/>   
+<https://simpleicons.org>  
+![image](https://user-images.githubusercontent.com/61136630/192518625-accd1e8b-ab96-422c-ba6e-ce48704d4f15.png)    
+ :one: 로고이름, :two: 배경색   
+:star: 배경색 입력시 #는 빼야함   
+`<img src="https://img.shields.io/badge/내용-배경색?style=flat&logo=로고이름&logoColor=폰트색"/>`   
+<img src="https://img.shields.io/badge/인스타-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+
+## Github status
+<https://github.com/anuraghazra/github-readme-stats>   
+
+## header & footer
+<https://github.com/kyechan99/capsule-render>
+```
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient &height=300&section=header&text=capsule%20render&fontSize=90)
+```
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
+
+## emoji
+<https://gist.github.com/rxaviers/7360908>
