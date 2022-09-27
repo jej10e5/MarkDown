@@ -65,7 +65,9 @@ Grave(백콤) 기호를 사용 `Grave`
 ![image](https://user-images.githubusercontent.com/61136630/192518625-accd1e8b-ab96-422c-ba6e-ce48704d4f15.png)    
  :one: 로고이름, :two: 배경색   
 :star: 배경색 입력시 #는 빼야함   
-`<img src="https://img.shields.io/badge/내용-배경색?style=flat&logo=로고이름&logoColor=폰트색"/>`   
+```
+<img src="https://img.shields.io/badge/내용-배경색?style=flat&logo=로고이름&logoColor=폰트색"/>
+```   
 <img src="https://img.shields.io/badge/인스타-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 
 ## Github status
